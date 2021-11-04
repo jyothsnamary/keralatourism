@@ -42,3 +42,23 @@ img{
     font-style: italic;
     
 }
+.midd{
+    font-family: cursive;
+    color: ghostwhite;
+    background-color: darkolivegreen;
+    padding: 7px;
+    margin-left: 7em;
+    margin-right: 7em;
+    border-left: 2em;
+}
+.ker{
+    font-family: cursive;
+    color: darkgoldenrod;
+    /* background-color: darkolivegreen; */
+    /* padding: 7px; */
+    /* margin-left: 7em;
+    margin-right: 7em; */
+    border-left: 2em; 
+    font-size: 2em;
+    margin-top: 8em;
+}

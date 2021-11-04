@@ -6,10 +6,11 @@ body{
     border: 3px solid midnightblue;
     float: right;
     margin-top: 12em;
-    margin-right: 35em;
+    margin-right: 32em;
     background-color: silver;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    padding: 2em;
 }
 .btn{
     font-size: large;
