@@ -1,0 +1,24 @@
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.dropdown-menu{
+    border: 3px solid midnightblue;
+    float: right;
+    margin-top: 12em;
+    margin-right: 35em;
+    background-color: silver;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.btn{
+    font-size: large;
+    transform: translateX(6em);
+}
+.form-control1{
+    transform: translateX(40px);
+}
+.a1{
+    text-decoration: none;
+    color: inherit;
+}

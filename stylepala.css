@@ -1,0 +1,133 @@
+body{
+    background-size: 100% 60%;
+    background-repeat: no-repeat;
+    background-color: rgba(135, 207, 235, 0.644);
+}
+.tvm{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    color: midnightblue;
+}
+h1{
+    letter-spacing: 4px;
+    transform: translateY(-130px);
+}
+h3{
+    transform: translateY(-100px);
+    color: white;
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color:rgba(124, 124, 200, 0.712) ;
+    font-size: x-large;
+}
+h2{
+    color: royalblue;
+    font-size: 3.5em;
+    background-color: skyblue;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.peri{
+    margin-bottom: 10em;
+    margin-left: 3em;
+    max-width: 400px;
+    max-height: 233px;
+    border: solid;
+
+}
+.gavip{
+    transform: translateY(-400px);
+    margin-left: 550px;
+    max-width: 400px;
+    max-height: 233px;
+    border: solid;
+}
+.aran{
+float: right;
+transform: translateY(-637px);
+margin-right: 3em;
+max-width: 400px;
+max-height: 233px;
+border: solid;
+}
+.konni{
+    margin-bottom: 10em;
+    margin-left: 3em;
+    max-width: 400px;
+    max-height: 233px;
+    border: solid;
+    transform: translateY(-250px);
+
+}
+.perun{
+    transform: translateY(-650px);
+    margin-left: 550px;
+    max-width: 400px;
+    max-height: 233px;
+    border: solid;
+}
+.sabari{
+    float: right;
+    transform: translateY(-887px);
+    margin-right: 3em;
+    max-width: 400px;
+    max-height: 233px;
+    border: solid;
+}
+
+h4:hover{
+      color: rgb(19, 40, 61);
+      transition: ease-in-out;
+}
+.pnp{
+    font-size: 2em;
+    color: white;
+    margin-left: 1.6em;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1160px);
+}
+.gv{
+    font-size: 2em;
+    color: white;
+    margin-left: 17.4em;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1280px);
+}
+
+.apt{
+    margin-left: 33em;
+    font-size: 2em;
+    color: white;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1390px); 
+}
+.kaa{
+    font-size: 2em;
+    color: white;
+    margin-left: 1.6em;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1090px);
+}
+.pf{
+    font-size: 2em;
+    color: white;
+    margin-left: 17.4em;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1210px); 
+}
+.sab{
+    margin-left: 33em;
+    font-size: 2em;
+    color: white;
+    max-width: 400px;
+    max-height: 233px;
+    transform: translateY(-1320px); 
+
+}

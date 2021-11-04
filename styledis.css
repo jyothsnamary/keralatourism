@@ -1,0 +1,45 @@
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+header{
+    background-color: white;
+    height: 6.5em;
+}
+img{
+    margin-left: 50px;
+    margin-top: 2px;
+}
+.welcome{
+    transform: translateY(-95px);
+    font-family: sans-serif;
+    color: forestgreen;
+    font-size: x-large;
+    
+}
+.kerala{
+    transform: translateY(-60px);
+    font-family: sans-serif;
+    color: lavender;
+    font-size:1.7em;
+    word-spacing: 5px;
+    margin-left: 15em;
+    /* margin-top: 12px; */
+}
+.kerala2{
+    transform: translateY(-515px);
+    font-family: sans-serif;
+    color: lavender;
+    font-size:1.7em;
+    word-spacing: 5px;
+    /* margin-left: 15em; */
+    float: right;
+    margin-right: 17em; 
+}
+li:hover{
+   color: goldenrod;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}

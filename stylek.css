@@ -1,0 +1,44 @@
+{
+    padding:0;
+    margin:0;
+}
+body{
+    background-size: cover;
+    background:cover;
+    background-repeat: no-repeat;
+}
+header{
+    background-color: white;
+    height: 6.5em;
+}
+img{
+    margin-left: 50px;
+    margin-top: 2px;
+}
+.heading{
+    float: right;
+    margin-top: 44px;
+    margin-right: 60px;
+}
+.heading a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:none;
+    color: green;
+    border: 1px solid green;
+    padding: 10px;
+    margin-right: 10px;
+
+}
+.heading a:hover{
+    background-color: lightskyblue;
+    color: saddlebrown;
+    transition: 1s ease-in-out;
+
+}
+.welcome{
+    transform: translateY(-95px);
+    font-family: sans-serif;
+    color: forestgreen;
+    font-style: italic;
+    
+}

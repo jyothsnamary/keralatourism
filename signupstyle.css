@@ -1,0 +1,45 @@
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.signup-form{
+    color: black;
+    border: 3px solid rgb(20, 63, 20);
+    float: right;
+    margin-top: 13em;
+    margin-right: 28em;
+    background-color:chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+.btn{
+    font-size: large;
+    transform: translateX(10em);
+}
+.btn:hover{
+    background-color: khaki;
+    color: darkslategrey;
+}
+.cap{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    margin-top: 1.5em;
+    border: 2px solid chocolate;
+    background-color: chocolate;
+    /* float: right; */
+    /* margin-left: em; */
+}
+.form-control1{
+    transform: translateX(77px);
+}
+.form-control2{
+    transform: translateX(40px);
+}
+.form-control3{
+    transform: translateX(15px);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
