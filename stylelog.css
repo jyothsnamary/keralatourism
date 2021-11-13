@@ -1,8 +1,26 @@
 body{
     background-size:cover;
     background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
 }
-.dropdown-menu{
+.container{
+    position: relative;
+    margin-top: 100px;
+    width: 450px;
+    height: auto;
+    background: #dedede;
+    border-radius: 5px;
+}
+.label{
+    padding: 20px 130px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #130f40;
+}
+/* .dropdown-menu{
     border: 3px solid midnightblue;
     float: right;
     margin-top: 12em;
@@ -18,8 +36,8 @@ body{
 }
 .form-control1{
     transform: translateX(40px);
-}
-.a1{
+} */
+/* .a1{
     text-decoration: none;
     color: inherit;
-}
+} */
