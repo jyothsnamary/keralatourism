@@ -9,16 +9,16 @@
 </head>
 <body background="imageskt/loginbgd.jpeg">
     <div class="dropdown-menu">
-        <form class="px-4 py-3">
+        <form action="district.html" onsubmit="return validate()">
             <center><h2>User Login</h2></center>
           <div class="mb-3">
-            <label for="exampleDropdownFormEmail1" class="form-label">Email address: </label>
-            <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+            <label for="email" class="form-label">Email address: </label>
+            <input type="email" class="form-control" id="email" placeholder="email@example.com">
           </div>
           <br>
           <div class="mb-3">
-            <label for="exampleDropdownFormPassword1" class="form-label">Password: </label>
-            <input type="password" class="form-control1" id="exampleDropdownFormPassword1" placeholder="Password">
+            <label for="password" class="form-label">Password: </label>
+            <input type="password" class="form-control1" id="pwd" placeholder="Password">
           </div>
           <br>
           <div class="mb-3">
@@ -29,9 +29,10 @@
               </label>
             </div>
             <br>
-          <button type="submit" class="btn btn-primary"><a class="a1" href="district.html">Login</a></button>
+          <button type="submit" class="submit">Login</button>
         </div>
         </form>
+        <script src="form.js"></script>
         <div class="dropdown-divider"></div>
         <br>
         <a class="dropdown-item" href="signup.html">New around here? Sign up</a>
