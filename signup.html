@@ -41,7 +41,7 @@
     </div>
     <div ng-style="passwordStrength"></div>
     <div class="signup-form">
-        <form action="/examples/actions/confirmation.php" method="post">
+        <form action="login.html" onsubmit="return validate()">
             <center><h2>Sign Up</h2></center>
             <p>Please fill in this form to create an account with us!</p>
             <hr>
@@ -59,7 +59,7 @@
               <br>
               <div class="mb-3">
                 <label for="exampleDropdownFormEmail1" class="form-label">Phone number: </label>
-                <input type="number" class="form-control2" id="exampleDropdownFormEmail1" placeholder="Phone Number">
+                <input type="text" class="form-control2" id="exampleDropdownFormEmail1" placeholder="Phone Number">
               </div>
               <br>
               <label for="errorphone" id="errorphone"></label>
